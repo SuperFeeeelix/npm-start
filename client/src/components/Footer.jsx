@@ -24,7 +24,7 @@ export default function Footer() {
             <h5>Newman Porter</h5>
           </div>
           <div className="name-row">
-            <h5>Felix Thompson</h5>
+            <h5>Oswaldo O. Felix Thompson</h5>
           </div>
         </div>
 
@@ -32,7 +32,7 @@ export default function Footer() {
 
       {/* If we decide to link to a contact form in footer... */}
       <div id="contact-us">
-        <h5>Questions? Comments? Concerns?</h5>
+        <h5>For any questions please click the link below</h5>
         <Link
           to="Contact"
           className="footer-link"
